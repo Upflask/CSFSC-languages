@@ -1,2 +1,2 @@
-# CSFSC-and-CSFTC-languages
-Different languages for CSFSC and CSFTC
+# CSFSC-languages
+Different languages for CSFSC
